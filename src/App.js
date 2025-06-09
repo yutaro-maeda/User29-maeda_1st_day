@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
-const API_ENDPOINT1 = 'https://wpwxhtp3k2.execute-api.ap-northeast-1.amazonaws.com/User29_maeda_ms-message_1';
-const API_ENDPOINT2 = 'https://wpwxhtp3k2.execute-api.ap-northeast-1.amazonaws.com/User29_maeda_ms-message_2';
+const API_ENDPOINT1 = 'https://vcu06814g4.execute-api.ap-northeast-1.amazonaws.com/User29_maeda_ms-message_1';
+const API_ENDPOINT2 = 'https://vcu06814g4.execute-api.ap-northeast-1.amazonaws.com/User29_maeda_ms-message_2';
 
 function App() {
   const [result, setResult] = useState('結果がここに表示されます');
